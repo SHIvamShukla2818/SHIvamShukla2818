@@ -1,6 +1,8 @@
 <!-- <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
-## नमस्ते 🙏, Hii' I'm Shivam Shukla  
+
+
+# नमस्ते 🙏, Hii' I'm Shivam Shukla  
 ## Full Stack Developer 👨‍💻
 
 [![](https://img.shields.io/badge/LinkedIn-ashrafkm-blue)](https://www.linkedin.com/in/ashraf-k-m-149a3494/)
@@ -17,13 +19,13 @@
 <img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...
+<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif"  width="50"> A little more about me...
 
 - 🔭 I’m currently working on **DApps using blockChain**
 
 - 🌱 I’m currently learning **BlockChain, solidity, React.js,**
 
-- 💬 Ask me about **Html, Css, javascript**
+- 💬 Ask me about **Html, Css, javascript, MERN**
 
 - 📫 How to reach me **shuklashivam76@gmail.com**
 
