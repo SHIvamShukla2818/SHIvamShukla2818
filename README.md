@@ -1,4 +1,8 @@
-![](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif)
+<!-- ![](https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif) -->
+<p align="center" >
+ <img src="https://c.tenor.com/6aSncIN19j8AAAAC/banner.gif" width="400" height="180"/>
+
+</p>
 <h1 align="center">Hi 👋, I'm Shivam Shukla</h1>
 ## नमस्ते 🙏, 
 
