@@ -16,7 +16,7 @@
 
 - 🔭 I’m currently working on **DApps using blockChain**
 
-- 🌱 I’m currently learning **BlockChain, solidity, React.js,**
+- 🌱 I’m currently learning **BlockChain, solidity, Figma,**
 
 - 💬 Ask me about **Html, Css, javascript, MERN**
 
